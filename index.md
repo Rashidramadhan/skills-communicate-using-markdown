@@ -6,6 +6,13 @@
 ![uefa 2023 final soccer ball used](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-H6ZhkFLV902AdsKqwWpAXMslJnXSgd9QBA&usqp=CAU)
 
 
+```python looping through a list
+  list1 = [1,2,3,4,5]
+  for i in list1:
+    print(i*10)
+ ```
+
+
 
 
 
